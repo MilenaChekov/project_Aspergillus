@@ -16,6 +16,8 @@ ZH-score дана в log10, иначе все бы значения скучко
 
 ![image](https://user-images.githubusercontent.com/60537367/173378672-5133f0d8-9d44-4d76-b31b-a60bb88fc3a4.png)
 
+![image](https://user-images.githubusercontent.com/60537367/173378700-a03995a1-1336-4c14-9eb3-47377fb3aa22.png)
+
 Большинство кластеров объединяет все 5 геномов (что логично, так как они из 1 рода), но есть и парные/тройные и тд
 
 ![image](https://user-images.githubusercontent.com/60537367/173378700-a03995a1-1336-4c14-9eb3-47377fb3aa22.png)
@@ -54,5 +56,4 @@ Alignment Score 23805
 
 ![image](https://user-images.githubusercontent.com/60537367/173416828-6a6b3e71-dee2-4293-ba76-03bf69dd71cb.png)
 
-
-![image](https://user-images.githubusercontent.com/60537367/173378700-a03995a1-1336-4c14-9eb3-47377fb3aa22.png)
+В большинстве случаев z-dna находится около 1 из концов гена, редко в середине
