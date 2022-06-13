@@ -46,7 +46,6 @@ Alignment Score 14466
 
 Alignment Score 23805
 
-<img width="721" alt="Снимок экрана 2022-06-13 в 18 10 02" src="https://user-images.githubusercontent.com/60537367/173385495-d1f94d15-d141-4858-80c7-aa3446d6375b.png">
 
 ![image](https://user-images.githubusercontent.com/60537367/173417706-d7b311fb-92ff-41de-a709-59bbfe41a27f.png)
 
