@@ -16,8 +16,28 @@ ZH-score дана в log10, иначе все бы значения скучко
 
 ![image](https://user-images.githubusercontent.com/60537367/173378672-5133f0d8-9d44-4d76-b31b-a60bb88fc3a4.png)
 
-Большинство кластеров объединяет все 5 геномов (что логично, так как они из 1 Рода), но есть и парные/тройные и тд
+Большинство кластеров объединяет все 5 геномов (что логично, так как они из 1 рода), но есть и парные/тройные и тд
 
 ![image](https://user-images.githubusercontent.com/60537367/173378700-a03995a1-1336-4c14-9eb3-47377fb3aa22.png)
 
+один из кластеров (номер 1) объединил ферменты, необходимые для синтеза белка, наибольший скор выравнивания был у 1 и 4
 
+<img width="717" alt="Снимок экрана 2022-06-13 в 18 11 01" src="https://user-images.githubusercontent.com/60537367/173385689-ae2663d7-b0a9-4434-9039-31e99b240ff5.png">
+
+Alignment Score 11723
+
+<img width="695" alt="Снимок экрана 2022-06-13 в 18 10 19" src="https://user-images.githubusercontent.com/60537367/173385545-25d0ea07-77d7-422c-acc8-3243fe7dde64.png">
+
+Alignment Score 23460
+
+<img width="721" alt="Снимок экрана 2022-06-13 в 18 10 02" src="https://user-images.githubusercontent.com/60537367/173385495-d1f94d15-d141-4858-80c7-aa3446d6375b.png">
+
+Alignment Score 5350
+
+<img width="711" alt="Снимок экрана 2022-06-13 в 18 09 49" src="https://user-images.githubusercontent.com/60537367/173385453-13a03013-f204-4fd2-90a6-411b6e360772.png">
+
+Alignment Score 14466
+
+<img width="698" alt="Снимок экрана 2022-06-13 в 18 09 32" src="https://user-images.githubusercontent.com/60537367/173385392-c22db92d-5ed8-458c-a312-8aa7d3ca60f7.png">
+
+Alignment Score 23805
