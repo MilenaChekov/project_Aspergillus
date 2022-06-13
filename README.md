@@ -20,6 +20,8 @@ ZH-score дана в log10, иначе все бы значения скучко
 
 ![image](https://user-images.githubusercontent.com/60537367/173378700-a03995a1-1336-4c14-9eb3-47377fb3aa22.png)
 
+<img width="728" alt="Снимок экрана 2022-06-13 в 18 24 00" src="https://user-images.githubusercontent.com/60537367/173388472-09969e1e-4a84-4d2a-95d5-a3bf4ab0dc56.png">
+
 один из кластеров (номер 1) объединил ферменты, необходимые для синтеза белка, наибольший скор выравнивания был у 1 и 4
 
 <img width="717" alt="Снимок экрана 2022-06-13 в 18 11 01" src="https://user-images.githubusercontent.com/60537367/173385689-ae2663d7-b0a9-4434-9039-31e99b240ff5.png">
