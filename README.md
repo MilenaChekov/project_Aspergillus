@@ -46,14 +46,17 @@ Alignment Score 14466
 
 Alignment Score 23805
 
-![image](https://user-images.githubusercontent.com/60537367/173416726-cfebf301-1421-465f-b601-74a78c527630.png)
+![image](https://user-images.githubusercontent.com/60537367/173417706-d7b311fb-92ff-41de-a709-59bbfe41a27f.png)
 
-![image](https://user-images.githubusercontent.com/60537367/173416774-7bfbce0e-d87e-4f0d-b009-66b23ca4be95.png)
+<img width="721" alt="Снимок экрана 2022-06-13 в 18 10 02" src="https://user-images.githubusercontent.com/60537367/173385495-d1f94d15-d141-4858-80c7-aa3446d6375b.png">
 
-![image](https://user-images.githubusercontent.com/60537367/173416790-c4e52436-389a-44c9-93d6-b35697735c2b.png)
+![image](https://user-images.githubusercontent.com/60537367/173417749-6dc12ddf-d53d-4029-a6c8-3f6387a28f9b.png)
 
-![image](https://user-images.githubusercontent.com/60537367/173416811-14caed2b-4da4-4bbf-a101-62447fee913a.png)
+![image](https://user-images.githubusercontent.com/60537367/173417768-6eb86c09-9252-46a9-bce4-66c1db139962.png)
 
-![image](https://user-images.githubusercontent.com/60537367/173416828-6a6b3e71-dee2-4293-ba76-03bf69dd71cb.png)
+![image](https://user-images.githubusercontent.com/60537367/173417787-c7c2f3a6-e7ea-44d7-931f-d5da0eb8f7cd.png)
 
-В большинстве случаев z-dna находится около 1 из концов гена, редко в середине
+![image](https://user-images.githubusercontent.com/60537367/173417806-fb2c0ff5-3e33-4907-93d3-b60b9839524e.png)
+
+
+В большинстве случаев z-dna находится около 1 из концов гена, редко в середине (так как была отсечка по промотеру, то это в силу короткого гена)
