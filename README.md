@@ -43,3 +43,16 @@ Alignment Score 14466
 <img width="698" alt="Снимок экрана 2022-06-13 в 18 09 32" src="https://user-images.githubusercontent.com/60537367/173385392-c22db92d-5ed8-458c-a312-8aa7d3ca60f7.png">
 
 Alignment Score 23805
+
+![image](https://user-images.githubusercontent.com/60537367/173416726-cfebf301-1421-465f-b601-74a78c527630.png)
+
+![image](https://user-images.githubusercontent.com/60537367/173416774-7bfbce0e-d87e-4f0d-b009-66b23ca4be95.png)
+
+![image](https://user-images.githubusercontent.com/60537367/173416790-c4e52436-389a-44c9-93d6-b35697735c2b.png)
+
+![image](https://user-images.githubusercontent.com/60537367/173416811-14caed2b-4da4-4bbf-a101-62447fee913a.png)
+
+![image](https://user-images.githubusercontent.com/60537367/173416828-6a6b3e71-dee2-4293-ba76-03bf69dd71cb.png)
+
+
+![image](https://user-images.githubusercontent.com/60537367/173378700-a03995a1-1336-4c14-9eb3-47377fb3aa22.png)
